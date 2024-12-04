@@ -2,8 +2,8 @@ function myFunction() {
   // 
   const text = "安心してください！\n拾ってます！";
   const broadcast = false;
-  const groupId = 'C9d63141d128b0d7abf7e33f08b1521d1'; // テスト
-  // const groupId = 'C58cfbf0ade6a012495508e0aa79213eb'; // 朝活で生産性上げ隊
+  const groupId = 'XXX'; // テスト
+  // const groupId = 'XXX'; // 朝活で生産性上げ隊
 
   // メイン処理
   if(broadcast){
